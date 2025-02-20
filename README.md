@@ -1,6 +1,7 @@
 📂 Project Overview:
 
 This project implements an advanced fraud detection system for financial transactions by combining deep learning techniques and machine learning models. It follows a structured pipeline to identify anomalies, analyze sequential patterns, and accurately classify fraudulent behavior.
+
 ⚙️ Technologies Used:
 
 Python 🐍
@@ -8,6 +9,7 @@ TensorFlow / Keras 🤖 (Neural Networks: Autoencoder & LSTM)
 Scikit-learn 📊 (Random Forest & Evaluation Metrics)
 Pandas & NumPy 📁 (Data Manipulation)
 Matplotlib & Seaborn 📈 (Data Visualization)
+
 🧪 Testing Process:
 
 New transactions pass through:
