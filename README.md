@@ -25,3 +25,5 @@ Layered AI Strategy: Autoencoder → LSTM → Random Forest for comprehensive fr
 Anomaly Detection: Captures outliers and new fraud patterns.
 Sequential Analysis: LSTM captures evolving transaction behaviors.
 Robust Classification: Random Forest reduces false positives and improves accuracy.
+
+Dataset from:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
